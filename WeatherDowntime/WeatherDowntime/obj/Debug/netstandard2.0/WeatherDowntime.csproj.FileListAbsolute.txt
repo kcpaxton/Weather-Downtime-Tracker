@@ -1,0 +1,15 @@
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\bin\Debug\netstandard2.0\WeatherDowntime.deps.json
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\bin\Debug\netstandard2.0\WeatherDowntime.dll
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\bin\Debug\netstandard2.0\WeatherDowntime.pdb
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\WeatherDowntime.csprojAssemblyReference.cache
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\WeatherDowntime.csproj.CoreCompileInputs.cache
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\WeatherDowntime.AssemblyInfoInputs.cache
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\WeatherDowntime.AssemblyInfo.cs
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\WeatherDowntime.dll
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\WeatherDowntime.pdb
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\Views\HelpPage.xaml.g.cs
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\kylep\source\repos\WeatherDowntime\WeatherDowntime\WeatherDowntime\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
